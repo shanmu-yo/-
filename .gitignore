@@ -1,0 +1,5 @@
+/WebApplication1/.vs/WebApplication1/v16/*.suo
+/obj/Debug
+/bin
+packages
+.vs
